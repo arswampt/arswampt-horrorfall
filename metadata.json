@@ -1,0 +1,8 @@
+{
+  "name": "Horrorfall",
+  "description": "Horrorfall: A 20-question atmospheric horror personality quiz that calculates your classic American horror character match with high-fidelity dark visual aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
